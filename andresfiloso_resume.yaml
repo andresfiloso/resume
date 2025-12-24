@@ -1,0 +1,107 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+cv:
+  name: Andrés Filoso
+  headline: Senior Backend Engineer
+  location: Buenos Aires, Argentina
+  email: andresfilosok@gmail.com
+  website: https://andresfiloso.com.ar
+  social_networks:
+    - network: LinkedIn
+      username: afiloso
+
+  sections:
+    Professional Summary:
+      - Senior Backend Engineer with 8+ years of experience building scalable APIs and distributed systems. Strong background in cloud-native architectures, performance optimization, and remote collaboration with U.S.-based stakeholders.
+
+    education:
+      - institution: Universidad Nacional de Lanús
+        area: Systems Engineering
+        degree: B.S. (In Progress)
+        start_date: 2014
+        end_date: present
+        location: Buenos Aires, Argentina
+
+    experience:
+      - company: Globant
+        position: Sr Backend Developer
+        start_date: 2020-11
+        end_date: present
+        location: Remote
+        highlights:
+          - Built scalable APIs serving thousands of daily users for large enterprise platforms in telecom and education.
+          - Improved system reliability and performance through k6 testing, performance analytics, and database optimization.
+          - Integrated into multiple client engineering teams, contributing to high-scale feature delivery and release timelines.
+          - Collaborated daily with U.S.-based stakeholders, maintaining strong communication and consistent positive feedback.
+
+      - company: Activate (Cooperative Startup)
+        position: Co-Founder & Lead Engineer
+        start_date: 2020-05
+        end_date: present
+        location: Remote
+        highlights:
+          - Led backend and API development for a cooperative digital marketplace platform.
+          - Developed the main e-commerce web app (activate.ar) supporting ~500 monthly active users and ~USD 30K in monthly transaction volume.
+          - Built internal web applications for inventory, finance, orders, fulfillment, logistics, CRM, product management and reporting.
+
+      - company: Telecom Argentina
+        position: Sr NOC Analyst
+        start_date: 2018-04
+        end_date: 2020-04
+        location: Buenos Aires, Argentina
+        highlights:
+          - Designed and developed internal tools, scripts, and REST APIs to automate operational workflows and modernize legacy systems still in production.
+          - Worked extensively with networking and service infrastructure, including Cisco and Juniper equipment, VLANs, VRF, MPLS, CMTS platforms, DHCP, DNS, and SDH/DWDM links.
+
+    skills:
+      - label: Backend & APIs
+        details: TypeScript, JavaScript, Node.js, NestJS, Fastify, REST API Design, Strapi CMS
+      - label: Databases & Caching
+        details: PostgreSQL, MongoDB, Redis
+      - label: Frontend
+        details: React, Next.js, Tailwind CSS, shadcn/ui, design systems
+      - label: Cloud & DevOps
+        details: AWS (ECS, ECR, S3), Docker, Terraform, GitHub Actions, CI/CD
+      - label: Architecture & Performance
+        details: Distributed systems, k6 performance testing, DDD, event-driven architectures
+
+    languages:
+      - label: Spanish
+        details: Native
+      - label: English
+        details: Fluent (daily collaboration with U.S. stakeholders)
+
+    interests:
+      - Travel, Guitar, Knowledge sharing, Mentoring, Collaborative learning communities
+
+design:
+  theme: classic
+
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    headline: rgb(0, 0, 0)
+    connections: rgb(80, 80, 80)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    footer: rgb(120, 120, 120)
+    top_note: rgb(120, 120, 120)
+
+  typography:
+    font_size:
+      name: 22pt
+      headline: 12pt
+      body: 10pt
+
+  sections:
+    show_time_spans_in:
+      - interests # just to remove time spans from all other sections
+
+  templates:
+    footer: ""
+    top_note: ""
+
+locale:
+  language: english
+
+settings:
+  current_date: "2025-12-24"
