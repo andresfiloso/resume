@@ -1,13 +1,13 @@
 # Andrés Filoso's CV
 
 - Email: [andresfilosok@gmail.com](mailto:andresfilosok@gmail.com)
-- Location: Buenos Aires, Argentina
+- Location: Barcelona, Spain
 - Website: [andresfiloso.com.ar](https://andresfiloso.com.ar/)
 - LinkedIn: [afiloso](https://linkedin.com/in/afiloso)
 
 
 # Professional Summary
-Senior Backend Engineer with 8+ years of experience building scalable APIs and distributed systems. Strong background in cloud-native architectures, performance optimization, and remote collaboration with U.S.-based stakeholders.
+Senior Full Stack Engineer with 8+ years of experience building scalable APIs and distributed systems. Strong background in cloud-native architectures, performance optimization, and remote collaboration with U.S.-based stakeholders.
 
 # Education
 ## **Universidad Nacional de Lanús**, Systems Engineering
@@ -21,11 +21,11 @@ Buenos Aires, Argentina
 
 
 # Experience
-## **Globant**, Sr Backend Developer
+## **Globant**, Sr Backend Engineer
 
 Remote
 
-Nov 2020 – present
+Nov 2020 – Mar 2025
 
 - Built scalable APIs serving thousands of daily users for large enterprise platforms in telecom and education.
 
@@ -37,7 +37,7 @@ Nov 2020 – present
 
 
 
-## **Activate (Cooperative Startup)**, Co-Founder & Lead Engineer
+## **Activate (Cooperative Startup)**, Co-Founder & Lead Full Stack Engineer
 
 Remote
 
@@ -45,7 +45,7 @@ May 2020 – present
 
 - Led backend and API development for a cooperative digital marketplace platform.
 
-- Developed the main e-commerce web app (activate.ar) supporting ~500 monthly active users and ~USD 30K in monthly transaction volume.
+- Developed the main e-commerce web app (activate.ar) supporting ~500 monthly active users.
 
 - Built internal web applications for inventory, finance, orders, fulfillment, logistics, CRM, product management and reporting.
 
@@ -74,10 +74,9 @@ Apr 2018 – Apr 2020
 
 **Architecture & Performance:** Distributed systems, k6 performance testing, DDD, event-driven architectures
 
+**AI-assisted, spec-driven development:** Write production code, tests, and documentation using Claude Code, GitHub Copilot, and OpenAI Codex, following a specs-first workflow
+
 # Languages
 **Spanish:** Native
 
 **English:** Fluent (daily collaboration with U.S. stakeholders)
-
-# Interests
-Travel, Guitar, Knowledge sharing, Mentoring, Collaborative learning communities

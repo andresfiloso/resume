@@ -85,10 +85,10 @@
 
 = Andrés Filoso
 
-  #headline([Senior Backend Engineer])
+  #headline([Senior Full Stack Engineer])
 
 #connections(
-  [#connection-with-icon("location-dot")[Buenos Aires, Argentina]],
+  [#connection-with-icon("location-dot")[Barcelona, Spain]],
   [#link("mailto:andresfilosok@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[andresfilosok\@gmail.com]]],
   [#link("https://andresfiloso.com.ar/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("link")[andresfiloso.com.ar]]],
   [#link("https://linkedin.com/in/afiloso", icon: false, if-underline: false, if-color: false)[#connection-with-icon("linkedin")[afiloso]]],
@@ -97,7 +97,7 @@
 
 == Professional Summary
 
-Senior Backend Engineer with 8+ years of experience building scalable APIs and distributed systems. Strong background in cloud-native architectures, performance optimization, and remote collaboration with U.S.-based stakeholders.
+Senior Full Stack Engineer with 8+ years of experience building scalable APIs and distributed systems. Strong background in cloud-native architectures, performance optimization, and remote collaboration with U.S.-based stakeholders.
 
 == Education
 
@@ -121,7 +121,7 @@ Senior Backend Engineer with 8+ years of experience building scalable APIs and d
 
 #regular-entry(
   [
-    #strong[Globant], Sr Backend Developer
+    #strong[Globant], Sr Backend Engineer
 
     - Built scalable APIs serving thousands of daily users for large enterprise platforms in telecom and education.
 
@@ -135,18 +135,18 @@ Senior Backend Engineer with 8+ years of experience building scalable APIs and d
   [
     Remote
 
-    Nov 2020 – present
+    Nov 2020 – Mar 2025
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[Activate (Cooperative Startup)], Co-Founder & Lead Engineer
+    #strong[Activate (Cooperative Startup)], Co-Founder & Lead Full Stack Engineer
 
     - Led backend and API development for a cooperative digital marketplace platform.
 
-    - Developed the main e-commerce web app (activate.ar) supporting \~500 monthly active users and \~USD 30K in monthly transaction volume.
+    - Developed the main e-commerce web app (activate.ar) supporting \~500 monthly active users.
 
     - Built internal web applications for inventory, finance, orders, fulfillment, logistics, CRM, product management and reporting.
 
@@ -188,12 +188,10 @@ Senior Backend Engineer with 8+ years of experience building scalable APIs and d
 
 #strong[Architecture & Performance:] Distributed systems, k6 performance testing, DDD, event-driven architectures
 
+#strong[AI-assisted, spec-driven development:] Write production code, tests, and documentation using Claude Code, GitHub Copilot, and OpenAI Codex, following a specs-first workflow
+
 == Languages
 
 #strong[Spanish:] Native
 
 #strong[English:] Fluent (daily collaboration with U.S. stakeholders)
-
-== Interests
-
-Travel, Guitar, Knowledge sharing, Mentoring, Collaborative learning communities

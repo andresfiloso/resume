@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
 cv:
   name: Andrés Filoso
-  headline: Senior Backend Engineer
-  location: Buenos Aires, Argentina
+  headline: Senior Full Stack Engineer
+  location: Barcelona, Spain
   email: andresfilosok@gmail.com
   website: https://andresfiloso.com.ar
   social_networks:
@@ -11,7 +11,7 @@ cv:
 
   sections:
     Professional Summary:
-      - Senior Backend Engineer with 8+ years of experience building scalable APIs and distributed systems. Strong background in cloud-native architectures, performance optimization, and remote collaboration with U.S.-based stakeholders.
+      - Senior Full Stack Engineer with 8+ years of experience building scalable APIs and distributed systems. Strong background in cloud-native architectures, performance optimization, and remote collaboration with U.S.-based stakeholders.
 
     education:
       - institution: Universidad Nacional de Lanús
@@ -23,9 +23,9 @@ cv:
 
     experience:
       - company: Globant
-        position: Sr Backend Developer
+        position: Sr Backend Engineer
         start_date: 2020-11
-        end_date: present
+        end_date: 2025-03
         location: Remote
         highlights:
           - Built scalable APIs serving thousands of daily users for large enterprise platforms in telecom and education.
@@ -34,13 +34,13 @@ cv:
           - Collaborated daily with U.S.-based stakeholders, maintaining strong communication and consistent positive feedback.
 
       - company: Activate (Cooperative Startup)
-        position: Co-Founder & Lead Engineer
+        position: Co-Founder & Lead Full Stack Engineer
         start_date: 2020-05
         end_date: present
         location: Remote
         highlights:
           - Led backend and API development for a cooperative digital marketplace platform.
-          - Developed the main e-commerce web app (activate.ar) supporting ~500 monthly active users and ~USD 30K in monthly transaction volume.
+          - Developed the main e-commerce web app (activate.ar) supporting ~500 monthly active users.
           - Built internal web applications for inventory, finance, orders, fulfillment, logistics, CRM, product management and reporting.
 
       - company: Telecom Argentina
@@ -63,6 +63,8 @@ cv:
         details: AWS (ECS, ECR, S3), Docker, Terraform, GitHub Actions, CI/CD
       - label: Architecture & Performance
         details: Distributed systems, k6 performance testing, DDD, event-driven architectures
+      - label: AI-assisted, spec-driven development
+        details: Write production code, tests, and documentation using Claude Code, GitHub Copilot, and OpenAI Codex, following a specs-first workflow
 
     languages:
       - label: Spanish
@@ -70,8 +72,8 @@ cv:
       - label: English
         details: Fluent (daily collaboration with U.S. stakeholders)
 
-    interests:
-      - Travel, Guitar, Knowledge sharing, Mentoring, Collaborative learning communities
+    # interests:
+    #   - Travel, Guitar, Knowledge sharing, Mentoring, Collaborative learning communities
 
 design:
   theme: classic
