@@ -76,9 +76,9 @@
   entries-highlights-space-between-items: 0cm,
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
-    year: 2025,
-    month: 12,
-    day: 24,
+    year: 2026,
+    month: 4,
+    day: 12,
   ),
 )
 
