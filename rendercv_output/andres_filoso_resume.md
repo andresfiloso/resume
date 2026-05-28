@@ -25,7 +25,7 @@ Buenos Aires, Argentina
 
 Remote
 
-Nov 2020 – Mar 2025
+Nov 2020 – Mar 2026
 
 - Built scalable APIs serving thousands of daily users for large enterprise platforms in telecom and education.
 

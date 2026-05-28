@@ -135,7 +135,7 @@ Senior Full Stack Engineer with 8+ years of experience building scalable APIs an
   [
     Remote
 
-    Nov 2020 – Mar 2025
+    Nov 2020 – Mar 2026
 
   ],
 )
