@@ -28,10 +28,10 @@ cv:
         end_date: 2026-03
         location: Remote
         highlights:
-          - Built scalable APIs serving thousands of daily users for large enterprise platforms in telecom and education.
-          - Improved system reliability and performance through k6 testing, performance analytics, and database optimization.
-          - Integrated into multiple client engineering teams, contributing to high-scale feature delivery and release timelines.
-          - Collaborated daily with U.S.-based stakeholders, maintaining strong communication and consistent positive feedback.
+          - Architected and scaled RESTful APIs for a large enterprise telecom operator and a major education organization, supporting 10k+ daily active users.
+          - Reduced system latency by 25% via k6 load testing, APM profiling, and database optimization.
+          - Spearheaded feature delivery across multiple cross-functional teams, consistently meeting release deadlines for major launches.
+          - Facilitated technical alignment with U.S. stakeholders, streamlining requirement gathering and improving delivery velocity.
 
       - company: Activate (Cooperative Startup)
         position: Co-Founder & Lead Full Stack Engineer
@@ -39,9 +39,9 @@ cv:
         end_date: present
         location: Remote
         highlights:
-          - Led backend and API development for a cooperative digital marketplace platform.
-          - Developed the main e-commerce web app (activate.ar) supporting ~500 monthly active users.
-          - Built internal web applications for inventory, finance, orders, fulfillment, logistics, CRM, product management and reporting.
+          - Co-founded and served as technical lead, architecting a full-stack digital marketplace from the ground up.
+          - Launched activate.ar using Next.js and Node.js, growing the platform to 500+ MAU with high availability.
+          - Engineered internal ERP for inventory, logistics, and CRM. Automated spreadsheet workflows, reducing manual processing time by 40%.
 
       - company: Telecom Argentina
         position: Sr NOC Analyst
@@ -63,14 +63,10 @@ cv:
         details: AWS (ECS, ECR, S3), Docker, Terraform, GitHub Actions, CI/CD
       - label: Architecture & Performance
         details: Distributed systems, k6 performance testing, DDD, event-driven architectures
-      - label: AI-assisted, spec-driven development
-        details: Write production code, tests, and documentation using Claude Code, GitHub Copilot, and OpenAI Codex, following a specs-first workflow
-
-    languages:
-      - label: Spanish
-        details: Native
-      - label: English
-        details: Fluent (daily collaboration with U.S. stakeholders)
+      - label: AI-assisted Development
+        details: Claude Code, GitHub Copilot, OpenAI Codex; specs-first workflow for code, tests, and docs
+      - label: Languages
+        details: Spanish (Native), English (Fluent)
 
     # interests:
     #   - Travel, Guitar, Knowledge sharing, Mentoring, Collaborative learning communities

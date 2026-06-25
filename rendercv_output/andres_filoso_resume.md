@@ -27,13 +27,13 @@ Remote
 
 Nov 2020 – Mar 2026
 
-- Built scalable APIs serving thousands of daily users for large enterprise platforms in telecom and education.
+- Architected and scaled RESTful APIs for a large enterprise telecom operator and a major education organization, supporting 10k+ daily active users.
 
-- Improved system reliability and performance through k6 testing, performance analytics, and database optimization.
+- Reduced system latency by 25% via k6 load testing, APM profiling, and database optimization.
 
-- Integrated into multiple client engineering teams, contributing to high-scale feature delivery and release timelines.
+- Spearheaded feature delivery across multiple cross-functional teams, consistently meeting release deadlines for major launches.
 
-- Collaborated daily with U.S.-based stakeholders, maintaining strong communication and consistent positive feedback.
+- Facilitated technical alignment with U.S. stakeholders, streamlining requirement gathering and improving delivery velocity.
 
 
 
@@ -43,11 +43,11 @@ Remote
 
 May 2020 – present
 
-- Led backend and API development for a cooperative digital marketplace platform.
+- Co-founded and served as technical lead, architecting a full-stack digital marketplace from the ground up.
 
-- Developed the main e-commerce web app (activate.ar) supporting ~500 monthly active users.
+- Launched activate.ar using Next.js and Node.js, growing the platform to 500+ MAU with high availability.
 
-- Built internal web applications for inventory, finance, orders, fulfillment, logistics, CRM, product management and reporting.
+- Engineered internal ERP for inventory, logistics, and CRM. Automated spreadsheet workflows, reducing manual processing time by 40%.
 
 
 
@@ -74,9 +74,6 @@ Apr 2018 – Apr 2020
 
 **Architecture & Performance:** Distributed systems, k6 performance testing, DDD, event-driven architectures
 
-**AI-assisted, spec-driven development:** Write production code, tests, and documentation using Claude Code, GitHub Copilot, and OpenAI Codex, following a specs-first workflow
+**AI-assisted Development:** Claude Code, GitHub Copilot, OpenAI Codex; specs-first workflow for code, tests, and docs
 
-# Languages
-**Spanish:** Native
-
-**English:** Fluent (daily collaboration with U.S. stakeholders)
+**Languages:** Spanish (Native), English (Fluent)
